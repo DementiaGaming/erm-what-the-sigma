@@ -1,2 +1,2 @@
-# erm-what-the-sigma
+# metal-pole-core
  brainrotmaxxing
